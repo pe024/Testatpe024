@@ -3,25 +3,50 @@ Codebuch
 
 Nodelist
 
-name_short	Name
+name_short	
+Name
 
-name	        NameName
+name	        
+NameName
 
-type	        0 = politican; 1 = organisation
+type	        
+0 = politican; 1 = organisation
 
-sex	        m = Mann; w = Frau; d = divers
+sex	        
+m = Mann; w = Frau; d = divers
 
-birth	        XXXX
-position	    sta = Staatssekretär; stm = Staatsminister; bmi = Bundesminister
-education	    dr = Promotion;	di = Diplom; BA = Bachelor;	MA = Master;	
-subject	      individual
-party	        fdp = FDP;	b90 = Grüne;	spd = SPD	
-religion	    ev = evangelisch;	ka = katholisch;	mu = muslimisch	
-kids	        X
-twitter	      XXXXXXX
-instagram	    XXXXXXX
-facebook	    XXXXXXX
-youtube       XXXXXXX
+birth	        
+XXXX
+
+position	    
+sta = Staatssekretär; stm = Staatsminister; bmi = Bundesminister
+
+education	    
+dr = Promotion;	di = Diplom; BA = Bachelor; MA = Master;	
+
+subject	      
+individual
+
+party	        
+fdp = FDP; b90 = Grüne;	spd = SPD	
+
+religion	    
+ev = evangelisch; ka = katholisch; mu = muslimisch	
+
+kids	        
+X
+
+twitter	      
+XXXXXXX
+
+instagram	    
+XXXXXXX
+
+facebook	    
+XXXXXXX
+
+youtube       
+XXXXXXX
 
 
 
