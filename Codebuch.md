@@ -3,10 +3,14 @@ Codebuch
 
 Nodelist
 
-name_short	  Name
+name_short	Name
+
 name	        NameName
+
 type	        0 = politican; 1 = organisation
-sex	          m = Mann;	w = Frau;	d = divers
+
+sex	        m = Mann; w = Frau; d = divers
+
 birth	        XXXX
 position	    sta = Staatssekretär; stm = Staatsminister; bmi = Bundesminister
 education	    dr = Promotion;	di = Diplom; BA = Bachelor;	MA = Master;	
