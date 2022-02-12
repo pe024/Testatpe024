@@ -1,7 +1,7 @@
 Codebuch
 
 
-Nodelist
+NODE-Attribute
 
 name_short	
 Name
@@ -50,7 +50,7 @@ XXXXXXX
 
 
 
-Edgelist
+EDGE-Attribute
 
 1 = Achtung: Regierung umfasst auch Staatsekretäre und das				
 Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende				
